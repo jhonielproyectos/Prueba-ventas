@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="prod001" tvg-name="Zapatillas Deportivas" tvg-logo="https://ejemplo.com/img/zapatillas.jpg" group-title="Calzado",Zapatillas Deportivas
+https://ejemplo.com/producto/001
+#DESCRIPCION: Zapatillas deportivas unisex, cómodas y resistentes.
+#PRECIO: $59.99
+#TIEMPO_ENTREGA: 3-5 días hábiles
+#ESTADO: Disponible
+
+#EXTINF:-1 tvg-id="prod002" tvg-name="Mochila Escolar" tvg-logo="https://ejemplo.com/img/mochila.jpg" group-title="Accesorios",Mochila Escolar
+https://ejemplo.com/producto/002
+#DESCRIPCION: Mochila resistente con múltiples compartimentos.
+#PRECIO: $29.99
+#TIEMPO_ENTREGA: 2-4 días hábiles
+#ESTADO: Agotado
